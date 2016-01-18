@@ -1,0 +1,28 @@
+name: Test-site-lundgren
+favicon: null
+layout_spectrum: 0.4026397673878819
+typography_spectrum: 0.5401355572976172
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9190041846595705
+  lightness: 0.8747661362867802
+  saturation: 0.6700498952995986
+  rhythmicContrast: 0.9569093468599021
+purpose: []
