@@ -2,6 +2,7 @@ name: Test-site-lundgren
 favicon: null
 layout_spectrum: 0.92203
 typography_spectrum: 0.5401355572976172
+title: Sample
 cta:
   domain: null
   bucket: null
